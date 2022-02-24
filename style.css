@@ -1,5 +1,7 @@
 body {
   background-color: #0a22f4;
+  
+  
 }
 
 .big {
@@ -73,4 +75,28 @@ iframe {
   padding: 18px 36px;
   border: none;
   cursor: pointer;
+}
+
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    padding: 80px 241px 0 200px;
+
+    
+}
+
+
+.rightsidefooter{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 50px;
+    align-items: center;
+}
+
+
+span{
+    position: absolute;
+    
 }
